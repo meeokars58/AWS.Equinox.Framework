@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "/FyiBeOgeMeroCvQ3s7oOdAUk+f79iMoYoAeknwADHQ=",
+  "Source": "AWS.Equinox.ApiClient",
+  "BasePath": "_content/AWS.Equinox.ApiClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "roNGx2cCOzPwqzUtnaHkqnTICSwl2UrqZ582xcFsPnu4ov5AI85dZWo7nC8p+TnLoys6VwvDT8FYJwmCkPNL8w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artet\\RiderProjects\\AWS.Equinox.Framework\\AWS.Equinox.Gateways.WebApi\\AWS.Equinox.Gateways.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artet\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Artet\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Artet\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Artet\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Artet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Artet\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

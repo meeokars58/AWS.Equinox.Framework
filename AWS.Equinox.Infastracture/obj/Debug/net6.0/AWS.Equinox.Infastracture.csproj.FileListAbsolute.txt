@@ -1,0 +1,12 @@
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\bin\Debug\net6.0\AWS.Equinox.Infastracture.deps.json
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\bin\Debug\net6.0\AWS.Equinox.Infastracture.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\bin\Debug\net6.0\AWS.Equinox.Infastracture.pdb
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\AWS.Equinox.Infastracture.csproj.AssemblyReference.cache
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\AWS.Equinox.Infastracture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\AWS.Equinox.Infastracture.AssemblyInfoInputs.cache
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\AWS.Equinox.Infastracture.AssemblyInfo.cs
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\AWS.Equinox.Infastracture.csproj.CoreCompileInputs.cache
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\AWS.Equinox.Infastracture.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\refint\AWS.Equinox.Infastracture.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\AWS.Equinox.Infastracture.pdb
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Infastracture\obj\Debug\net6.0\ref\AWS.Equinox.Infastracture.dll
