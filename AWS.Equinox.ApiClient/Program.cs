@@ -1,9 +1,3 @@
-using AWS.Equinox.ApiClient.Configuration;
-using AWS.Equinox.ApiClient.Handler;
-using AWS.Equinox.Infastracture.MiddleWare.Debug;
-using Ocelot.Configuration.File;
-using Ocelot.DependencyInjection;
-
 namespace AWS.Equinox.ApiClient
 {
     public class Program
@@ -15,6 +9,10 @@ namespace AWS.Equinox.ApiClient
 
         private static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
-                .ConfigureWebHostDefaults(webBuilder => { webBuilder.UseStartup<Startup>(); });
+                .ConfigureWebHostDefaults(webBuilder =>
+                {
+                    webBuilder.UseStartup<Startup>();
+                })
+                .ConfigureLogging(log => log.AddConsole());
     }
 }
