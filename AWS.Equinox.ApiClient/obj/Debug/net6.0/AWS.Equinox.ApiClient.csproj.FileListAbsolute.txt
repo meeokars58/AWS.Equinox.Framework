@@ -30,3 +30,10 @@ C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\obj\Deb
 C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\obj\Debug\net6.0\AWS.Equinox.ApiClient.pdb
 C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\obj\Debug\net6.0\AWS.Equinox.ApiClient.genruntimeconfig.cache
 C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\obj\Debug\net6.0\ref\AWS.Equinox.ApiClient.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.ApiClient\bin\Debug\net6.0\Ocelot.dll

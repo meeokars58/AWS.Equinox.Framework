@@ -1,0 +1,15 @@
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\bin\Debug\net6.0\AWS.Equinox.Console.exe
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\bin\Debug\net6.0\AWS.Equinox.Console.deps.json
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\bin\Debug\net6.0\AWS.Equinox.Console.runtimeconfig.json
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\bin\Debug\net6.0\AWS.Equinox.Console.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\bin\Debug\net6.0\AWS.Equinox.Console.pdb
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.csproj.AssemblyReference.cache
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.AssemblyInfoInputs.cache
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.AssemblyInfo.cs
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.csproj.CoreCompileInputs.cache
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\refint\AWS.Equinox.Console.dll
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.pdb
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\AWS.Equinox.Console.genruntimeconfig.cache
+C:\Users\Artet\RiderProjects\AWS.Equinox.Framework\AWS.Equinox.Console\obj\Debug\net6.0\ref\AWS.Equinox.Console.dll
